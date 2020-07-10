@@ -3,10 +3,10 @@ Python OpenNI binding installation
 2. Install Python OpenNI binding
 # pip install openni
 
-3. Install Python module °ßnumpy°®
+3. Install Python module ‚Äúnumpy‚Äù
 # pip install numpy
 
-4. Install Python module °ßopencv-python°®
+4. Install Python module ‚Äúopencv-python‚Äù
 # pip install opencv-python
 
 5. Check if the numpy and openni and opencv-python have been installed
